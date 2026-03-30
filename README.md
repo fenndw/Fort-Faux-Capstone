@@ -118,7 +118,7 @@ All work was completed in the NSCC Hardware Lab (Room 312).
 ---
 
 ## System Topology
-*(Insert your network diagram here)*
+![Network Diagram](./screenshots/network-diagram.png)
 
 Color coding used in the original design:  
 - **Gold:** Ethernet connections  
