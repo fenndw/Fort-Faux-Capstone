@@ -5,7 +5,7 @@
 
 </div>
 
-# Fort Faux – Capstone Network Infrastructure Project
+---
 
 ## Overview
 Fort Faux is a mid‑complexity network infrastructure project built as the capstone for the Information Technology Systems Management and Security (ITSMS) program at NSCC. As the project lead, I coordinated a four‑person team to design, deploy, secure, and test a (semi)‑replicated educational center network. The goal was to apply the full breadth of our program knowledge—networking, virtualization, security, monitoring, documentation, and incident response—into one cohesive, fully operational environment.
