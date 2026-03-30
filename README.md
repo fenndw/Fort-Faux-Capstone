@@ -119,11 +119,6 @@ All work was completed in the NSCC Hardware Lab (Room 312).
 ## System Topology
 *(Insert your network diagram here)*
 
-Color coding used in the original design:  
-- **Gold:** Ethernet connections  
-- **Red:** Virtual connections  
-- **Blue:** Domain connections  
-
 ---
 
 ## Platform & OS Details
